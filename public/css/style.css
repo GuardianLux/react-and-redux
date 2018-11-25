@@ -13,3 +13,8 @@ header {
     font-size: 40px;
     font-family: 'Anton';
 }
+
+header input {
+    font-size: 20px;
+    margin: 20px 0px;
+}
